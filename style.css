@@ -1,0 +1,23 @@
+#oraszam{
+    display: flex;
+}
+ 
+#osztalyterem{
+    size: 3px;
+}
+ 
+div{
+    background-color: darkgray;
+    color: black;
+    width: 930px;
+    
+}
+ 
+#piros{
+    background-color: gray;
+}
+ 
+a{
+    text-decoration: none;
+    color: black;
+}
